@@ -1,0 +1,9 @@
+
+1
+Go to school
+2
+Do study
+3
+Respect elders
+4
+Go to home
